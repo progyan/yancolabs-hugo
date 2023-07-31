@@ -1,0 +1,18 @@
+{{ define "main" }}
+    {{ .Content }}
+    {{ range .Pages }}
+        <div class="obj-home-page">
+            <p class="text-home-page-title">{{ .Title }}</p>
+            <p class="text-home-page-date">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</p>
+            <div class="text-home-page-tags">
+                {{ if .Params.tags }} 
+                    {{range .Params.tags}}
+                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                    {{end}}
+                {{end}}
+            </div>
+
+            <p class="text-home-page-summary">{{ .Summary }}</p>
+    </div>
+    {{ end }}
+{{ end }}

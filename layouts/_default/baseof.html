@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>BASEOF.HTML</title>
+        <!--<link rel="stylesheet" href="baseof.css">-->
+    </head>
+    <body>
+        <header>
+            <a class="text-baseof-header-section" href="{{ .Site.Home.Permalink }}">
+                Yancolabs
+            </a>
+            {{ range .Site.Home.Pages }}
+                |
+                <a class="text-baseof-header-section" href="{{ .Permalink }}">
+                    {{- .Title -}}
+                </a>
+            {{ end }}
+        </header>
+        <hr>
+        {{ block "main" . }}
+            <p class="error">BASEOF:MAIN!DEFAULT! This section must get replaced.</p>
+        {{ end }}
+        <hr>
+        BASEOF:FOOTER!DEFAULT
+
+        <style>
+            .obj-home-page {
+                border: 1px solid black;
+                padding: 0 30px;
+                margin: 10px;
+                cursor: pointer;
+            }
+
+            .text-home-page-title {
+                font-size: larger;
+                font-weight: bold;
+            }
+
+            .text-home-page-summary {
+                color: green;
+            }
+
+            .error {
+                font-weight: bolder;
+                color: red;
+            }
+        </style>
+    </body>
+</html>
