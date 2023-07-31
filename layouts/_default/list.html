@@ -1,5 +1,6 @@
 {{ define "main" }}
     {{ .Content }}
+    <h1>{{ .Title }}</h1>
     {{ range .Pages }}
         <div class="obj-home-page">
             <p class="text-home-page-title">{{ .Title }}</p>
