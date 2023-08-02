@@ -5,6 +5,4 @@ draft: true
 author: "yanb"
 ---
 
-# Homepage
-
 Site Sections must follow.

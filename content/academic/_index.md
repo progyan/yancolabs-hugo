@@ -3,11 +3,10 @@ title: "Academic"
 date: 2023-07-31T12:40:36+06:00
 draft: true
 author: "yanb"
+summary: "This is the list of my main academic achievments."
 ---
 
 This is the list of my main academic achievments.
-
-<!--more-->
 
 ## International competitions
 
