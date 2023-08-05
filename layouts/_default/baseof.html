@@ -3,8 +3,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>BASEOF.HTML</title>
-        <!--<link rel="stylesheet" href="baseof.css">-->
+        <title>Yancolabs | {{ .Title }}</title>
     </head>
     <body>
         <header>
@@ -23,28 +22,26 @@
             <p class="error">BASEOF:MAIN!DEFAULT! This section must get replaced.</p>
         {{ end }}
         <hr>
-        BASEOF:FOOTER!DEFAULT
+        <footer>
+            <p class="text-baseof-footer-copyright">Copyright © 2023 Yancolabs.com</p>
+            <p class="text-baseof-footer-contactinfo">[contact info]
+        </footer>
+
+        {{ block "style" . }}
+        {{ end }}
 
         <style>
-            .obj-home-page {
-                border: 1px solid black;
-                padding: 0 30px;
-                margin: 10px;
-                cursor: pointer;
-            }
-
-            .text-home-page-title {
-                font-size: larger;
-                font-weight: bold;
-            }
-
-            .text-home-page-summary {
-                color: green;
-            }
-
             .error {
                 font-weight: bolder;
                 color: red;
+            }
+
+            .text-baseof-footer-copyright {
+                text-align: center;
+            }
+
+            .text-baseof-footer-contactinfo {
+                text-align: center;
             }
         </style>
     </body>
