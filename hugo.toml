@@ -1,3 +1,8 @@
 baseURL = 'https://yancolabs.com/'
 languageCode = 'en-us'
 title = 'Yancolabs'
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

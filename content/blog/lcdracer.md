@@ -42,7 +42,7 @@ Then connect the buzzer, buttons, and joystick as shown in the following scheme.
 
 Paste the following code into Arduino IDE and upload it onto your Arduino.
 
-![[race.ino]](/racer.ino)
+<a href="/race.ino" class="file-download" download>download code</a>
 
 ## Done!
 
