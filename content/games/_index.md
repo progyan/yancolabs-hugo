@@ -5,4 +5,4 @@ draft: true
 author: "yanb"
 ---
 
-Short video games.
+Short video games. Some of them were made as GMTK Game Jam submissons; some -- as Google Play apps.

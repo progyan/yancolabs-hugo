@@ -2,10 +2,10 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     {{ range .Pages }}
-        <div class="obj-home-page">
-            <p class="text-home-page-title">{{ .Title }}</p>
-            <p class="text-home-page-date">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</p>
-            <div class="text-home-page-tags">
+        <div class="obj-list-page" onclick="window.location = {{ .Permalink }}">
+            <p class="text-list-page-title">{{ .Title }}</p>
+            <p class="text-list-page-date">{{ dateFormat "Jan 2, 2006" .Date }}</p>
+            <div class="text-list-page-tags">
                 {{ if .Params.tags }} 
                     {{range .Params.tags}}
                         <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
@@ -13,7 +13,38 @@
                 {{end}}
             </div>
 
-            <p class="text-home-page-summary">{{ .Summary }}</p>
+            <p class="text-list-page-summary">{{ .Summary }}</p>
         </div>
     {{ end }}
+{{ end }}
+
+{{ define "style" }}
+    <style>
+        .obj-list-page {
+            border: 1px solid black;
+            padding: 0 30px;
+            margin: 10px;
+            cursor: pointer;
+        }
+
+        .text-list-page-title {
+            font-size: larger;
+            font-weight: bold;
+            margin-bottom: 0;
+        }
+
+        .text-list-page-date {
+            margin-top: 0;
+            font-size: smaller;
+            color: grey;
+        }
+
+        .text-list-page-tags {
+            color: blue;
+        }
+
+        .text-list-page-summary {
+            color: green;
+        }
+    </style>
 {{ end }}
