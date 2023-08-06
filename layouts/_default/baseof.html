@@ -11,10 +11,12 @@
                 Yancolabs
             </a>
             {{ range .Site.Home.Pages }}
-                |
-                <a class="text-baseof-header-section" href="{{ .Permalink }}">
-                    {{- .Title -}}
-                </a>
+                {{ if ne .Title "secret" }}
+                    |
+                    <a class="text-baseof-header-section" href="{{ .Permalink }}">
+                        {{- .Title -}}
+                    </a>
+                {{ end }}
             {{ end }}
         </header>
         <hr>
