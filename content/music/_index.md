@@ -6,3 +6,5 @@ author: "yanb"
 ---
 
 Music.
+
+{{< audio src="/music/SMACKUS.mp3" >}}
