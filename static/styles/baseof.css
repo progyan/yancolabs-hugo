@@ -1,0 +1,16 @@
+.error {
+    font-weight: bolder;
+    color: red;
+}
+
+.text-baseof-footer-copyright {
+    text-align: center;
+}
+
+.text-baseof-footer-contactinfo {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}

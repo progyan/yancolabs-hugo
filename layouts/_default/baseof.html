@@ -4,6 +4,11 @@
     <head>
         <meta charset="UTF-8">
         <title>Yancolabs | {{ .Title }}</title>
+
+        <link rel="stylesheet" href="/styles/baseof.css">
+
+        {{ block "links" . }}
+        {{ end }}
     </head>
     <body>
         <header>
@@ -28,27 +33,5 @@
             <p class="text-baseof-footer-copyright">Copyright © 2023 Yancolabs.com</p>
             <p class="text-baseof-footer-contactinfo">[contact info]
         </footer>
-
-        {{ block "style" . }}
-        {{ end }}
-
-        <style>
-            .error {
-                font-weight: bolder;
-                color: red;
-            }
-
-            .text-baseof-footer-copyright {
-                text-align: center;
-            }
-
-            .text-baseof-footer-contactinfo {
-                text-align: center;
-            }
-
-            img {
-                width: 300px;
-            }
-        </style>
     </body>
 </html>

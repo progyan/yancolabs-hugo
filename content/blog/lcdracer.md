@@ -4,7 +4,7 @@ date: 2023-07-30T16:56:38+06:00
 draft: true
 author: "yanb"
 summary: "A classic racing arcade game played on an LCD controlled by Arduino."
-bgimage: "/post-lcdracer-connection.jpg"
+bgimage: "/blog/post-lcdracer-connection.jpg"
 ---
 
 ## How to play LCDRacer
@@ -42,7 +42,7 @@ Then connect the buzzer, buttons, and joystick as shown in the following scheme.
 
 Paste the following code into Arduino IDE and upload it onto your Arduino.
 
-<a href="/race.ino" class="file-download" download>download code</a>
+<a href="/blog/race.ino" class="file-download" download>download code</a>
 
 ## Done!
 

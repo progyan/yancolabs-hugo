@@ -1,0 +1,26 @@
+.obj-list-page {
+    border: 1px solid black;
+    padding: 0 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.text-list-page-title {
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.text-list-page-date {
+    margin-top: 0;
+    font-size: smaller;
+    color: grey;
+}
+
+.text-list-page-tags {
+    color: blue;
+}
+
+.text-list-page-summary {
+    color: green;
+}
