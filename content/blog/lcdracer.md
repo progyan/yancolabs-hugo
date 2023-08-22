@@ -15,7 +15,7 @@ Collect coins (`*`) and powerups (`?`), steer using your joystick, and shoot bul
 
 _Watch the playthrough video:_
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/z82Q5v14J5Y" title="LCDRacer - A DIY Arcade Game with Arduino" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube z82Q5v14J5Y >}}
 
 ## What you will need
 
@@ -36,7 +36,7 @@ First, connect the LCD to your Arduino directly or using I<sup>2</sup>C.
 
 Then connect the buzzer, buttons, and joystick as shown in the following scheme.
 
-![[Connection scheme]](/post-lcdracer-connection.jpg)
+![[Connection scheme]](/static/blog/post-lcdracer-connection.jpg)
 
 ## Code
 
