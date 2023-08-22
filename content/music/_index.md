@@ -7,4 +7,4 @@ author: "yanb"
 
 Music.
 
-{{< audio src="/music/SMACKUS.mp3" >}}
+{{< audio src="/static/music/SMACKUS.mp3" >}}
