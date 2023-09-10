@@ -11,6 +11,14 @@
     text-align: center;
 }
 
+tr:nth-child(even) {
+    background-color: #00000011;
+}
+
+td {
+    padding: 0 10px;
+}
+
 img {
     width: 300px;
 }
