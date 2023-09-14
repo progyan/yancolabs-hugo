@@ -1,0 +1,28 @@
+.error {
+    font-weight: bolder;
+    color: red;
+}
+
+.text-baseof-footer-copyright {
+    text-align: center;
+}
+
+.text-baseof-footer-contactinfo {
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #00000011;
+}
+
+td {
+    padding: 0 10px;
+}
+
+img {
+    width: 300px;
+}
+
+.audio-figure {
+    margin: 0px;
+}

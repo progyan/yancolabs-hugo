@@ -1,4 +1,4 @@
-<figure>
+<figure class="audio-figure">
     <audio controls>
         {{ with .Get "src" }}<source src="{{ . }}" type="audio/mp3">{{ end }}
         {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
