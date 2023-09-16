@@ -12,9 +12,7 @@
     </head>
     <body>
         <header>
-            <a class="text-baseof-header-section" href="{{ .Site.Home.Permalink }}">
-                Yancolabs
-            </a>
+            <a class="text-baseof-header-section" href="{{ .Site.Home.Permalink }}">Yancolabs</a>
             {{ range .Site.Home.Pages }}
                 {{ if ne .Title "secret" }}
                     |

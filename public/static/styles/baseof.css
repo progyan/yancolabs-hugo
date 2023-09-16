@@ -24,5 +24,12 @@ img {
 }
 
 .audio-figure {
-    margin: 0px;
+    margin: 0;
+}
+
+blockquote {
+    opacity: 0.8;
+    border-left: lightgray 4px solid;
+    padding-left: 12px;
+    margin-left: 0;
 }
