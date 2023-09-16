@@ -7,7 +7,7 @@ tags:
 - "GMTK Game Jam Submissions"
 ---
 
-> Telestick Manport is a platformer game about a stickman stuck in an unknown place, trying to follow flags to make his way home. Of course, it wouldn't be that easy. The road will be blocked by obstacles for the stickman to pass. He can't make the way himself - but there are some portals to help him. He needs your help to solve every puzzle and return home!
+> Telestick Manport is a platformer game about a stickman stuck in an unknown place, trying to follow flags to make his way home. Of course, it won't be that easy. The road will be blocked by obstacles for the stickman to pass. He can't make the way himself - but there are some portals to help him. He needs your help to solve every puzzle and return home!
 
 ![Screenshot 1](https://img.itch.zone/aW1hZ2UvMTA4MTY3OC82MjAxNjgyLnBuZw==/original/0ptNoa.png)
 ![Screenshot 2](https://img.itch.zone/aW1hZ2UvMTA4MTY3OC82MjAxNjg1LnBuZw==/original/zySY%2Fr.png)
