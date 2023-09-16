@@ -19,7 +19,7 @@ td {
     padding: 0 10px;
 }
 
-img {
+img:not(#img-baseof-ipopup-image) {
     width: 300px;
 }
 
@@ -32,4 +32,25 @@ blockquote {
     border-left: lightgray 4px solid;
     padding-left: 12px;
     margin-left: 0;
+}
+
+#obj-baseof-ipopup {
+    background-color: #00000088;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+}
+
+#img-baseof-ipopup-image {
+    max-width: 80vw;
+    max-height: 80vh;
+    position: absolute;
+    left: 50vw;
+    top: 50vh;
+    transform: translate(-50%, -50%);
+    border-radius: 6px;
+    box-shadow: 0 10px 40px #00000044;
 }
