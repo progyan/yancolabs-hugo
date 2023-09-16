@@ -1,5 +1,7 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
+    <h1>
+        {{ .Title }}
+    </h1>
     {{ .Content }}
     {{ range .Pages }}
         <div class="obj-list-page" onclick="window.location = {{ .Permalink }}"
@@ -14,10 +16,11 @@
             <p class="text-list-page-date">{{ dateFormat "Jan 2, 2006" .Date }}</p>
             <div class="text-list-page-tags">
                 {{ if .Params.tags }} 
+                    <span>Tags: </span>
                     {{ range .Params.tags }}
                         <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
                     {{ end }}
-                {{end}}
+                {{ end }}
             </div>
 
             <p class="text-list-page-summary">{{ .Summary }}</p>
