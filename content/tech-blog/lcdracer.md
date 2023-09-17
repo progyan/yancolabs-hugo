@@ -5,6 +5,8 @@ draft: true
 author: "yanb"
 summary: "A classic racing arcade game played on an LCD controlled by Arduino."
 bgimage: "/blog/post-lcdracer-connection.jpg"
+tags:
+- "Arduino"
 ---
 
 ## How to play LCDRacer
