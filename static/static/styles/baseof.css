@@ -37,7 +37,7 @@ blockquote {
 
 #obj-baseof-ipopup {
     background-color: #00000088;
-    position: absolute;
+    position: fixed;
     left: 0;
     top: 0;
     width: 100vw;
@@ -52,7 +52,7 @@ blockquote {
 #img-baseof-ipopup-image {
     max-width: 80vw;
     max-height: 80vh;
-    position: absolute;
+    position: fixed;
     left: 50vw;
     top: 50vh;
     transform: translate(-50%, -50%);
