@@ -9,6 +9,7 @@
 
 .text-baseof-footer-contactinfo {
     text-align: center;
+    display: block;
 }
 
 tr:nth-child(even) {
