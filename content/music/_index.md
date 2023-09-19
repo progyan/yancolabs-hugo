@@ -12,8 +12,8 @@ author: "yanb"
 | old[^1] | Domofon (Instrumental Ver.) | {{< audio src="/static/music/domofon-instrumental.mp3" >}} | 400 | This was planned to be a video clip. |
 | 2021 | Space Shuttle - a Synthwave track | {{< audio src="/static/music/space_shuttle.mp3" >}} | 393 | This track differs from others in style. |
 | old[^1] | `LCDRacer` | {{< audio src="/static/music/lcdracer.mp3" >}} | 355 | `C:> ‎ - @ ‎ ? * ‎ ‎ #` |
-| old[^1] | Untitled 3 | {{< audio src="/static/music/misc.mp3" >}} | 297 | First non-LMMS music project |
-| 2022 | Untitled 5 | {{< audio src="/static/music/5m.mp3" >}} | 201 | 5/4 beat test |
+| old[^1] | Untitled 3 | {{< audio src="/static/music/misc.mp3" >}} | 297 | First non-[LMMS](https://lmms.io/) music project |
+| 2022 | Untitled 5 | {{< audio src="/static/music/5m.mp3" >}} | 201 | 5/4 time test |
 | 2023 | ЖОС | {{< audio src="/static/music/жос.mp3" >}} | 339 | This track also differs from others in style. |
 
 Note: add mathjax
@@ -36,7 +36,7 @@ This is some soundtrack from an unreleased game Boris' Adventures.
 | Vol.1 | 13 | 2022 | Interruption: Happen | {{< audio src="/static/music/hapen.mp3" >}} | 342 | |
 | Vol.1 | 14 | 2022 | Chapter 1 Titles | {{< audio src="/static/music/chapter1end.mp3" >}} | 301 | |
 | Vol.2 | ? | 2021 | Deton8or | {{< audio src="/static/music/chapter1end.mp3" >}} | 317 | |
-| Vol.4 | ? | 2019 | `siriPiPQ;` | {{< audio src="/static/music/siripipq.mp3" >}} | 355 | |
+| Vol.4 | ? | 2019 | `c!riPiPQ;` | {{< audio src="/static/music/siripipq.mp3" >}} | 355 | |
 
 Note: missing ovw1
 
