@@ -5,6 +5,8 @@ draft: true
 author: "yanb"
 summary: "Классическая гонка-аркада на LCD под управлением Arduino."
 bgimage: "/post-lcdracer-connection.jpg"
+tags:
+- "Arduino"
 ---
 
 ## Как играть в LCDRacer
