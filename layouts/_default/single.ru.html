@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    <nav class="obj-baseof-taxonomies">
+        <span>Теги: </span>
+        {{ range .Params.tags }}
+            <a class="text-baseof-taxonomies-tag" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">
+                {{- . -}}
+            </a>
+        {{ end }}
+    </nav>
+    <br>
+    {{ .Content }}
+{{ end }}
+
+{{ define "links" }}
+    <link rel="stylesheet" href="/static/styles/single.css">
+{{ end }}

@@ -1,0 +1,33 @@
+{{ define "main" }}
+    <h1>
+        {{ .Title }}
+    </h1>
+    {{ .Content }}
+    {{ range .Pages }}
+        <div class="obj-list-page" onclick="window.location = {{ .Permalink }}"
+                {{ if .Params.bgimage }}
+                    style="background: 
+                                linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), 
+                                url({{ .Params.bgimage }}); 
+                        background-size: cover"
+                {{ end }}
+        >
+            <p class="text-list-page-title">{{ .Title }}</p>
+            <p class="text-list-page-date">{{ dateFormat "Jan 2, 2006" .Date }}</p>
+            <div class="text-list-page-tags">
+                {{ if .Params.tags }} 
+                    <span>Теги: </span>
+                    {{ range .Params.tags }}
+                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                    {{ end }}
+                {{ end }}
+            </div>
+
+            <p class="text-list-page-summary">{{ .Summary }}</p>
+        </div>
+    {{ end }}
+{{ end }}
+
+{{ define "links" }}
+    <link rel="stylesheet" href="/static/styles/list.css">
+{{ end }}
