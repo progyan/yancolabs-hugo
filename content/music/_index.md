@@ -13,10 +13,8 @@ author: "yanb"
 | 2021 | Space Shuttle - a Synthwave track | {{< audio src="/static/music/space_shuttle.mp3" >}} | 393 | This track differs from others in style. |
 | old[^1] | `LCDRacer` | {{< audio src="/static/music/lcdracer.mp3" >}} | 355 | `C:> ‎ - @ ‎ ? * ‎ ‎ #` |
 | old[^1] | Untitled 3 | {{< audio src="/static/music/misc.mp3" >}} | 297 | First non-[LMMS](https://lmms.io/) music project |
-| 2022 | Untitled 5 | {{< audio src="/static/music/5m.mp3" >}} | 201 | 5/4 time test |
+| 2022 | Untitled 5 | {{< audio src="/static/music/5m.mp3" >}} | 201 | \\(\frac 5 4\\) time test |
 | 2023 | ЖОС | {{< audio src="/static/music/жос.mp3" >}} | 339 | This track also differs from others in style. |
-
-Note: add mathjax
 
 [^1]: It's so old that I can't remember, probably 2019 or 2020. 
 
