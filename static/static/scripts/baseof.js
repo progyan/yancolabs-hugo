@@ -1,3 +1,5 @@
+// IPopup
+
 let ipopup = document.getElementById("obj-baseof-ipopup");
 let ipopupImage = document.getElementById("img-baseof-ipopup-image");
 
@@ -13,4 +15,21 @@ function closeIPopup() {
     ipopup.style.opacity = 0;
     ipopup.style.pointerEvents = "none";
     ipopupImage.src = "";
+}
+
+// Dynamic content
+
+function updateDynamic(elementId) {
+    try {
+        let el = document.querySelector(".dynamic_content#" + elementId);
+        el.innerText = dynamicValues[elementId];
+    } catch (exception) {
+        console.log("ERROR: dynamic element with id " + elementId + " doesn't exist.");
+    }
+}
+
+if (typeof dynamicValues != 'undefined') {
+    for (let elementId of dynamicValues) {
+        updateDynamic(elementId);
+    }
 }
