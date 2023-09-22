@@ -2,7 +2,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     {{ range .Pages }}
-        {{ if ne .Title "secret" }}
+        {{ if ne .Title "Contact information" }}
             <div class="obj-home-page" onclick="window.location = {{ .Permalink }}">
                 <p class="text-home-page-title">{{ .Title }}</p>
                 <p class="text-home-page-summary">{{ .Summary }}</p>
