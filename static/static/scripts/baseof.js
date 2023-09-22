@@ -29,7 +29,7 @@ function updateDynamic(elementId) {
 }
 
 if (typeof dynamicValues != 'undefined') {
-    for (let elementId of dynamicValues) {
+    for (let [elementId, _] of Object.entries(dynamicValues)) {
         updateDynamic(elementId);
     }
 }
