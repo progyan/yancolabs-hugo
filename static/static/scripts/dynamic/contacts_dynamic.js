@@ -1,3 +1,3 @@
 let dynamicValues = {
-    "telegram-id": "pipis"
+    "telegram-id": "@yancolabs"
 };

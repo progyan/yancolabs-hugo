@@ -21,7 +21,7 @@ function closeIPopup() {
 
 function updateDynamic(elementId) {
     try {
-        let el = document.querySelector(".dynamic_content#" + elementId);
+        let el = document.querySelector(".dynamic-content#" + elementId);
         el.innerText = dynamicValues[elementId];
     } catch (exception) {
         console.log("ERROR: dynamic element with id " + elementId + " doesn't exist.");
