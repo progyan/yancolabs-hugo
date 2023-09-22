@@ -9,7 +9,7 @@ author: "yanb"
 
 | Release Year | Name | MP3 file | Rating[^2] | Comment |
 | ------------:| ---- | -------- | ----------:| ------- |
-| old[^1] | Domofon (Instrumental Ver.) | {{< audio src="/static/music/domofon-instrumental.mp3" >}} | 400 | This was planned to be a video clip. |
+| old[^1] | Domofon (Instrumental Ver.) | {{< audio src="/static/music/domofon_instrumental.mp3" >}} | 400 | This was planned to be a video clip. |
 | 2021 | Space Shuttle - a Synthwave track | {{< audio src="/static/music/space_shuttle.mp3" >}} | 393 | This track differs from others in style. |
 | old[^1] | `LCDRacer` | {{< audio src="/static/music/lcdracer.mp3" >}} | 355 | `C:> ‎ - @ ‎ ? * ‎ ‎ #` |
 | old[^1] | Untitled 3 | {{< audio src="/static/music/misc.mp3" >}} | 297 | First non-[LMMS](https://lmms.io/) music project |

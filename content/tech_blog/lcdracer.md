@@ -4,7 +4,7 @@ date: 2023-07-30T16:56:38+06:00
 draft: true
 author: "yanb"
 summary: "A classic racing arcade game played on an LCD controlled by Arduino."
-bgimage: "/static/blog/post-lcdracer-connection.jpg"
+bgimage: "/static/blog/post_lcdracer_connection.jpg"
 tags:
 - "Arduino"
 ---
@@ -38,7 +38,7 @@ First, connect the LCD to your Arduino directly or using I<sup>2</sup>C.
 
 Then connect the buzzer, buttons, and joystick as shown in the following scheme.
 
-![[Connection scheme]](/static/blog/post-lcdracer-connection.jpg)
+![[Connection scheme]](/static/blog/post_lcdracer_connection.jpg)
 
 ## Code
 
