@@ -19,7 +19,7 @@ function closeIPopup() {
 
 // Dynamic content
 
-function updateDynamic(elementId) {
+function updateDynamicValue(elementId) {
     try {
         let el = document.querySelector(".dynamic-content#" + elementId);
         el.innerText = dynamicValues[elementId];
@@ -28,8 +28,23 @@ function updateDynamic(elementId) {
     }
 }
 
+function updateDynamicHref(elementId) {
+    try {
+        let el = document.querySelector(".dynamic-link#" + elementId);
+        el.href = dynamicHrefs[elementId];
+    } catch (exception) {
+        console.log("ERROR: dynamic element with id " + elementId + " doesn't exist.");
+    }
+}
+
 if (typeof dynamicValues != 'undefined') {
     for (let [elementId, _] of Object.entries(dynamicValues)) {
-        updateDynamic(elementId);
+        updateDynamicValue(elementId);
+    }
+}
+
+if (typeof dynamicHrefs != 'undefined') {
+    for (let [elementId, _] of Object.entries(dynamicHrefs)) {
+        updateDynamicHref(elementId);
     }
 }

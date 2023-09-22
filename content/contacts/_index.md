@@ -5,6 +5,6 @@ draft: true
 author: "yanb"
 ---
 
-Telegram: {{< dynamic_span id="telegram-id" >}}
+Telegram: {{< dynamic_link id="telegram-id" >}}
 
 {{< script src="/static/scripts/dynamic/contacts_dynamic.js" >}}
