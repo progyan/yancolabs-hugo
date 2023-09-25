@@ -7,7 +7,7 @@ author: "yanb"
 
 ## Separate tracks
 
-| Release Year | Name | MP3 file | Rating[^2] | Comment |
+| Release Year | Name | MP3 file | Rating {{< tooltip desc="Rating is a subjectively chosen integer: I prefer tracks with higher rating more." >}} | Comment |
 | ------------:| ---- | -------- | ----------:| ------- |
 | old[^1] | Domofon (Instrumental Ver.) | {{< audio src="/static/music/domofon_instrumental.mp3" >}} | 400 | This was planned to be a video clip. |
 | 2021 | Space Shuttle - a Synthwave track | {{< audio src="/static/music/space_shuttle.mp3" >}} | 393 | This track differs from others in style. |
@@ -21,7 +21,7 @@ author: "yanb"
 ## Boris' Adventures OST
 This is some soundtrack from an unreleased game Boris' Adventures.
 
-| Volume | Track No. | Release Year | Name | MP3 file | Rating[^2] | Comment |
+| Volume | Track No. | Release Year | Name | MP3 file | Rating {{< tooltip desc="Rating is a subjectively chosen integer: I prefer tracks with higher rating more." >}} | Comment |
 | ------ | ---------:| ------------:| ---- | -------- | ----------:| ------- |
 | Vol.1 | 1 | 2022 | Game Title - No Achievements | {{< audio src="/static/music/title.mp3" >}} | 288 | |
 | Vol.1 | 3 | 2022 | Robik is on the Moon! | {{< audio src="/static/music/robik.mp3" >}} | 343 | |
@@ -37,5 +37,3 @@ This is some soundtrack from an unreleased game Boris' Adventures.
 | Vol.4 | ? | 2019 | `c!riPiPQ;` | {{< audio src="/static/music/siripipq.mp3" >}} | 355 | |
 
 Note: missing ovw1
-
-[^2]: Rating is a subjectively chosen integer: I prefer tracks with higher rating more.
