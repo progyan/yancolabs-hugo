@@ -4,7 +4,7 @@ date: 2023-07-30T16:56:38+06:00
 draft: true
 author: "yanb"
 summary: "Классическая гонка-аркада на LCD под управлением Arduino."
-bgimage: "/post_lcdracer_connection.jpg"
+bgimage: "/static/blog/post_lcdracer_connection.jpg"
 tags:
 - "Arduino"
 ---
