@@ -22,12 +22,14 @@
                 {{ end }}
             {{ end }}
         </header>
-        <ul id="breadcrumbs">
+        <br>
+        <div id="breadcrumbs">
             {{- range .Ancestors.Reverse }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                <span><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+                <span> &gt; </span>
             {{- end }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        </ul>
+            <span><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+        </div>
         <hr>
         {{ block "main" . }}
             <p class="error">BASEOF:MAIN!DEFAULT! This section must get replaced.</p>
