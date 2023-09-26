@@ -1,9 +1,10 @@
 {{ define "main" }}
     <h1>{{ .Title }}</h1>
-    <nav class="obj-baseof-taxonomies">
+    <p class="text-single-date">{{ dateFormat "Jan 2, 2006" .Date }}</p>
+    <nav class="obj-single-taxonomies">
         <span>Tags: </span>
         {{ range .Params.tags }}
-            <a class="text-baseof-taxonomies-tag" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">
+            <a class="text-single-taxonomies-tag" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">
                 {{- . -}}
             </a>
         {{ end }}

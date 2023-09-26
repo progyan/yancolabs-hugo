@@ -1,5 +1,6 @@
 {{ define "main" }}
     <h1>{{ .Title }}</h1>
+    <p class="text-single-date">{{ dateFormat "Jan 2, 2006" .Date }}</p>
     <nav class="obj-baseof-taxonomies">
         <span>Теги: </span>
         {{ range .Params.tags }}
