@@ -12,24 +12,30 @@
     </head>
     <body>
         <header>
-            <a class="text-baseof-header-section" href="{{ .Site.Home.Permalink }}">Yancolabs</a>
-            {{ range .Site.Home.Pages }}
-                {{ if ne .Title "secret" }}
-                    |
-                    <a class="text-baseof-header-section" href="{{ .Permalink }}">
-                        {{- .Title -}}
-                    </a>
+            <nav id="obj-baseof-mainnav">
+                <a class="text-baseof-header-section" href="{{ .Site.Home.Permalink }}">Yancolabs</a>
+                {{ range .Site.Home.Pages }}
+                    {{ if ne .Title "secret" }}
+                        |
+                        <a class="text-baseof-header-section" href="{{ .Permalink }}">
+                            {{- .Title -}}
+                        </a>
+                    {{ end }}
                 {{ end }}
-            {{ end }}
-        </header>
-        <p id="breadcrumbs">
-            <span>You are at</span>
-            {{- range .Ancestors.Reverse }}
+                </nav>
+            <nav id="obj-baseof-language">
+                en
+            </nav>
+            <br>
+            <nav id="obj-baseof-breadcrumbs">
+                <span>You are at</span>
+                {{- range .Ancestors.Reverse }}
+                    <span><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+                    <span> &gt; </span>
+                {{- end }}
                 <span><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
-                <span> &gt; </span>
-            {{- end }}
-            <span><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
-        </p>
+            </nav>
+        </header>
         <hr>
         {{ block "main" . }}
             <p class="error">BASEOF:MAIN!DEFAULT! This section must get replaced.</p>

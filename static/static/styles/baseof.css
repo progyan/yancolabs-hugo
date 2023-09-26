@@ -59,3 +59,12 @@ blockquote {
     border-radius: 6px;
     box-shadow: 0 10px 40px #00000044;
 }
+
+#obj-baseof-mainnav {
+    display: inline-block;
+    margin-bottom: 6px;
+}
+
+#obj-baseof-language {
+    float: right;
+}
