@@ -3,6 +3,7 @@ title: "Telestick Manport"
 date: 2023-09-16T11:15:16+06:00
 draft: true
 author: "yanb"
+bgimage: "https://img.itch.zone/aW1hZ2UvMTA4MTY3OC82MjAxNjgyLnBuZw==/original/0ptNoa.png"
 tags:
 - "GMTK Game Jam Submissions"
 ---
