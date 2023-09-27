@@ -1,7 +1,7 @@
 ---
 title: "Life blog"
 date: 2023-08-06T10:56:28+06:00
-draft: true
+draft: false
 author: "yanb"
 ---
 
