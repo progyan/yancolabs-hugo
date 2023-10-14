@@ -20,7 +20,7 @@ td {
     padding: 0 10px;
 }
 
-img:not(#img-baseof-ipopup-image) {
+img:not(#img-baseof-ipopup-image):not(.tooltip-img) {
     width: 300px;
 }
 
@@ -67,4 +67,8 @@ blockquote {
 
 #obj-baseof-language {
     float: right;
+}
+
+.tooltip-img {
+    height: 1em;
 }
