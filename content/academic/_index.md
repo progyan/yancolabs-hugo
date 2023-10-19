@@ -25,7 +25,7 @@ This is the list of my main academic achievments.
 | ---- | ---- | ---- | ------ |
 | [HSE Team Olympiad in Informatics 2023](https://olymp.hse.ru/coding/) | IT | 2023.04.23 | [93.71% 41st Gold Medal](https://olymp.hse.ru/mirror/pubs/share/834494308.pdf) |
 | [Kyrgyzstan IT Cup (Junior) Final 2023](https://olympiads.kg/c/35/compets) | IS | 2023.05.13 | [100% 1st Gold Medal](https://t.me/itcup/46) |
-| [Archimedes' Programming Tournir 2023](http://www.arhimedes.org/) | IT | ? | 94.08% 31st Silver Medal |
+| [Archimedes' Programming Tournament 2023](http://www.arhimedes.org/) | IT | ? | 94.08% 31st Silver Medal |
 | Kyrgyzstan National Mathematical Olympiad Final 2023 | MS | ? | 5th Silver Medal |
 | Kyrgyzstan National Olympiad in Informatics Final 2023 | IS | ? | 9th Bronze Medal |
 | Shaltay Smagülov Mathematical Olympiad 2023 - Kyrgyzstan (Stage 1, 2 Junior) | MS | 2023.04.2023 | 100% 1st Gold Medal |
