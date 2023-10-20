@@ -12,6 +12,7 @@ This is the list of my main academic achievments.
 
 | Name | Type | Date | Result |
 | ---- | ---- | ---- | ------ |
+| IGO 2023 | MS | 2023.10.20 | Not yet |
 | [IMO 2023](https://imo2023.jp/en/) | MS | 2023.07.06 | [32.74% 416th Honorable Mention](https://www.imo-official.org/participant_r.aspx?id=33101) | 
 | [APIO 2023](http://www.apio2023.cn/) | IS | 2023.05.20 | [46.57% (--)](http://www.apio2023.cn/score.html) |
 | [BMO 2023](https://bmo2023.tubitak.gov.tr/) | MS | 2023.05.08 | [12.21% 115th (--)](https://bmo2023.tubitak.gov.tr/results) |
