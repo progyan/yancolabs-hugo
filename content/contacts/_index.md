@@ -9,4 +9,6 @@ Telegram: {{< dynamic_link id="telegram-id" >}}
 
 Codeforces: {{< dynamic_link id="codeforces-link" >}}
 
+Github: {{< dynamic_link id="github-account" >}}
+
 {{< script src="/static/scripts/dynamic/contacts_dynamic.js" >}}
