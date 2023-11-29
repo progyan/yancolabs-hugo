@@ -13,7 +13,7 @@ This is the list of my main academic achievments.
 | Name | Type | Date | Score distr. | Place | Award |
 | ---- | ---- | ---- | ------------ | ----- | ----- |
 | [JBOI 2023](https://jboi2023.cs.org.mk/) | `IS` | 2023.11.25 | 78.13% | 14th | [Silver Medal](https://jboi2023.cs.org.mk/content/results) |
-| [AMC10 2023](https://maa.org/math-competitions/amc-1012) | `MS` | 2023.11.14 | 97.50% | | |
+| [AMC10 2023](https://maa.org/math-competitions/amc-1012) | `MS` | 2023.11.14 | 97.50% | | --- |
 | IGO8 2023 | `MS` | 2023.10.20 | | | |
 | [IMO 2023](https://imo2023.jp/en/) | `MS` | 2023.07.06 | 32.74% | 416th | [Honorable Mention](https://www.imo-official.org/participant_r.aspx?id=33101) | 
 | [IMSC 2023](https://imscprogram.com/) | `MS` | 2023.06.06 | | | [Honorable Mention](https://imscprogram.com/competition.html) |
