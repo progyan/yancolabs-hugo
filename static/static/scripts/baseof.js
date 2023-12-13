@@ -48,3 +48,8 @@ if (typeof dynamicHrefs != 'undefined') {
         updateDynamicHref(elementId);
     }
 }
+
+function languageChanged() {
+    let langSelect = document.getElementById("obj-baseof-langselect");
+    window.location.href
+}
