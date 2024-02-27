@@ -16,7 +16,7 @@ This is the list of my main academic achievments.
 | [IMAS 2024](https://chiuchang.org/imas/about/) | `MS` | | | | |
 | [AIME II 2024](https://maa.org/math-competitions/invitational-competitions) | `MS` | 2024.02.07 | | | |
 | EMC 2023 | `MS` | | | | |
-| İSTLAB 2023 | `[Ch, Ph, M]S` | 2023.12.24 | 89.36% | 6th | Silver Medal |
+| İSTLAB 2023 | `SS` | 2023.12.24 | 89.36% | 6th | Silver Medal |
 | VKOSHP XXIV | `IT` | 2023.12.12 | 73.84% | 63rd | III degree |
 | XV Eurasian Olympiad in Informatics | `IT` | 2023.12.12 | | 5th | Gold Medal |
 | [JBOI 2023](https://jboi2023.cs.org.mk/) | `IS` | 2023.11.25 | 78.13% | 14th | [Silver Medal](https://jboi2023.cs.org.mk/content/results) |
