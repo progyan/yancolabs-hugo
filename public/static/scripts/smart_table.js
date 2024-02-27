@@ -15,3 +15,10 @@ document.querySelectorAll('th').forEach((th) => {
              .forEach(tr => tbody.appendChild(tr));
     }))
 }); 
+
+for (td of document.querySelectorAll("td")) {
+    if (td.innerText == "Honorable Mention") td.style.backgroundColor = "lightblue";
+    if (td.innerText == "Bronze Medal") td.style.backgroundColor = "#CD7F32";
+    if (td.innerText == "Silver Medal") td.style.backgroundColor = "lightgray";
+    if (td.innerText == "Gold Medal") td.style.backgroundColor = "gold";
+}

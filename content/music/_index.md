@@ -35,6 +35,8 @@ This is some soundtrack from an unreleased game Boris' Adventures.
 | Vol.1 | 13 | 2022 | Interruption: Happen | {{< audio src="/static/music/hapen.mp3" >}} | 342 | |
 | Vol.1 | 14 | 2022 | Chapter 1 Titles | {{< audio src="/static/music/chapter1end.mp3" >}} | 301 | |
 | Vol.2 | ? | 2021 | Deton8or | {{< audio src="/static/music/chapter1end.mp3" >}} | 317 | |
+| Vol.2 | ? | 2023 | Musnakus' Flat | | 250 | |
+| Vol.3 | ? | 2023 | G. CleanBot | {{< audio src="/static/music/g_cleanbot.mp3" >}} | 348 | |
 | Vol.4 | ? | 2019 | `c!riPiPQ;` | {{< audio src="/static/music/siripipq.mp3" >}} | 355 | |
 
 Note: missing ovw1
