@@ -12,7 +12,7 @@
     display: block;
 }
 
-td {
+td, th {
     padding: 2px 12px;
 }
 

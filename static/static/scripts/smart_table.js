@@ -18,9 +18,9 @@ document.querySelectorAll('th').forEach((th) => {
 
 for (td of document.querySelectorAll("td")) {
     if (td.innerText == "Honorable Mention") td.style.backgroundColor = "#aaddff";
-    if (td.innerText == "Bronze Medal") td.style.backgroundColor = "#ffddaa";
-    if (td.innerText == "Silver Medal") td.style.backgroundColor = "#dddddd";
-    if (td.innerText == "Gold Medal") td.style.backgroundColor = "#ffffaa";
-    if (td.innerText == "Dist. Honor Roll") td.style.backgroundColor = "#aaffaa";
+    if (td.innerText == "Bronze Medal" || td.innerText == "III degree") td.style.backgroundColor = "#ffddaa";
+    if (td.innerText == "Silver Medal" || td.innerText == "II degree") td.style.backgroundColor = "#dddddd";
+    if (td.innerText == "Gold Medal" || td.innerText == "I degree") td.style.backgroundColor = "#ffffaa";
+    if (td.innerText == "Dist. Honor Roll" || td.innerText == "High Distinction") td.style.backgroundColor = "#aaffaa";
     if (td.innerHTML == "") td.style.backgroundColor = "red";
 }
