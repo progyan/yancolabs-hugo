@@ -21,4 +21,5 @@ for (td of document.querySelectorAll("td")) {
     if (td.innerText == "Bronze Medal") td.style.backgroundColor = "#CD7F32";
     if (td.innerText == "Silver Medal") td.style.backgroundColor = "lightgray";
     if (td.innerText == "Gold Medal") td.style.backgroundColor = "gold";
+    if (td.innerText == "Dist. Honor Roll") td.style.backgroundColor = "#aaffaa";
 }
