@@ -8,12 +8,25 @@ summary: "This is the list of my main academic achievments."
 
 This is the list of my main academic achievments.
 
-## International competitions
+## Significant international competitions
 
 | Name | Type | Date | Score distr. | Place | Award | Certificates |
 | ---- |:----:| ---- | ------------ | ----- | ----- |:------------:|
+| [APIO 2024](http://www.apio2024.org/) | `IS` | 2024.05.20 | | | | |
 | [BMO 2024](https://bmo2024.org/) | `MS` | 2024.04.28 | 91.79% | 12th | [Silver Medal](https://bmo2024.org/results/) | {{< inline_img src="/static/documents/c_balkan_2024.jpg" >}} {{< inline_img src="/static/documents/m_balkan_2024.jpg" >}} |
 | [InfO(1)Cup](https://info1cup.com/) | `IS` | 2024.02.10 | 82.09% | 25th | [Silver Medal](https://info1cup.com/results) | |
+| [JBOI 2023](https://jboi2023.cs.org.mk/) | `IS` | 2023.11.25 | 78.13% | 14th | [Silver Medal](https://jboi2023.cs.org.mk/content/results) |  |
+| [IMO 2023](https://imo2023.jp/en/) | `MS` | 2023.07.06 | 32.74% | 416th | [Honorable Mention](https://www.imo-official.org/participant_r.aspx?id=33101) | |
+| [IMSC 2023](https://imscprogram.com/) | `MS` | 2023.06.06 | | | [Honorable Mention](https://imscprogram.com/competition.html) | |
+| [APIO 2023](http://www.apio2023.cn/) | `IS` | 2023.05.20 | 46.57% | | [none](http://www.apio2023.cn/score.html) | |
+| [BMO 2023](https://bmo2023.tubitak.gov.tr/) | `MS` | 2023.05.08 | 12.21% | 115th | [none](https://bmo2023.tubitak.gov.tr/results) | |
+| [APMO 2023](https://apmo-official.org/) | `MS` | 2023.03.14 | | | [none](https://apmo-official.org/country_report/KGZ/2023) | |
+| [IZhO 2023](https://izho.kz/) | `MS` | 2023.02.01 | 65.56% | | [Bronze Medal](https://izho.kz/contest/results-izho-2023/) | |
+
+## Other international competitions
+
+| Name | Type | Date | Score distr. | Place | Award | Certificates |
+| ---- |:----:| ---- | ------------ | ----- | ----- |:------------:|
 | [IMAS 2024](https://chiuchang.org/imas/about/) | `MS` | | | | | |
 | [AIME II 2024](https://maa.org/math-competitions/invitational-competitions) | `MS` | 2024.02.07 | | | | |
 | [AMC8 2024](https://maa.org/math-competitions/amc-8) | `MS` | 2024.01.20 | 99.35% | | Dist. Honor Roll | {{< inline_img src="/static/documents/c_amc8_2024.jpg" >}} {{< inline_img src="/static/documents/m_amc8_2024.jpg" >}} |
@@ -21,16 +34,9 @@ This is the list of my main academic achievments.
 | EMC 2023 | `MS` | 2023.12.09 | | | | |
 | [VKOSHP XXIV](https://neerc.ifmo.ru/school/russia-team/index.html) | `IT` | 2023.12.12 | 73.84% | 63rd | [III degree](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) | |
 | XV Eurasian Olympiad in Informatics | `IT` | 2023.12.12 | | 5th | [Gold Medal](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) | {{< inline_img src="/static/documents/c_eurasian_2023.jpg" >}} {{< inline_img src="/static/documents/m_eurasian_2023.jpg" >}} |
-| [JBOI 2023](https://jboi2023.cs.org.mk/) | `IS` | 2023.11.25 | 78.13% | 14th | [Silver Medal](https://jboi2023.cs.org.mk/content/results) |  |
 | [AMC10B 2023](https://maa.org/math-competitions/amc-1012) | `MS` | 2023.11.14 | 97.50% | | --- | {{< inline_img src="/static/documents/c_amc10_2023.jpg" >}} {{< inline_img src="/static/documents/m_amc10_2023.jpg" >}} |
 | IGO8 2023 | `MS` | 2023.10.20 | | | Silver Medal | |
-| [IMO 2023](https://imo2023.jp/en/) | `MS` | 2023.07.06 | 32.74% | 416th | [Honorable Mention](https://www.imo-official.org/participant_r.aspx?id=33101) | |
-| [IMSC 2023](https://imscprogram.com/) | `MS` | 2023.06.06 | | | [Honorable Mention](https://imscprogram.com/competition.html) | |
-| [APIO 2023](http://www.apio2023.cn/) | `IS` | 2023.05.20 | 46.57% | | [none](http://www.apio2023.cn/score.html) | |
 | [IMAS 2023](https://chiuchang.org/imas/about/) | `MS` | 2023.05.14 | | | [Gold Medal](https://docs.google.com/spreadsheets/d/1T0HSraedQrSbfds6FmRWwNrIeEHcE6E7/edit?usp=sharing&ouid=107173272238617493592&rtpof=true&sd=true) | |
-| [BMO 2023](https://bmo2023.tubitak.gov.tr/) | `MS` | 2023.05.08 | 12.21% | 115th | [none](https://bmo2023.tubitak.gov.tr/results) | |
-| [APMO 2023](https://apmo-official.org/) | `MS` | 2023.03.14 | | | [none](https://apmo-official.org/country_report/KGZ/2023) | |
-| [IZhO 2023](https://izho.kz/) | `MS` | 2023.02.01 | 65.56% | | [Bronze Medal](https://izho.kz/contest/results-izho-2023/) | |
 | [AMC8 2023](https://maa.org/math-competitions/amc-8) | `MS` | 2023.01.21 | 97.50% | | | |
 
 ## Local competitions

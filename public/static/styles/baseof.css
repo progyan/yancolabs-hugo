@@ -12,12 +12,8 @@
     display: block;
 }
 
-tr:nth-child(even) {
-    background-color: #00000011;
-}
-
 td {
-    padding: 0 10px;
+    padding: 2px 12px;
 }
 
 img:not(#img-baseof-ipopup-image):not(.tooltip-img):not(.inline-img) {
@@ -47,6 +43,11 @@ blockquote {
     pointer-events: none;
     transition-property: all;
     transition-duration: 0.3s;
+}
+
+table, th, td {
+    border: 2px solid lightgray;
+    border-collapse: collapse;
 }
 
 #img-baseof-ipopup-image {
