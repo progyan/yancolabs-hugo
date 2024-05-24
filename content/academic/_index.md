@@ -10,31 +10,38 @@ This is the list of my main academic achievments.
 
 ## International competitions
 
-| Name | Type | Date | Score distr. | Place | Award |
-| ---- | ---- | ---- | ------------ | ----- | ----- |
-| [InfO(1)Cup](https://info1cup.com/) | `IS` | 2024.02.10 | | | |
-| [IMAS 2024](https://chiuchang.org/imas/about/) | `MS` | | | | |
-| [AIME II 2024](https://maa.org/math-competitions/invitational-competitions) | `MS` | 2024.02.07 | | | |
-| EMC 2023 | `MS` | | | | |
-| İSTLAB 2023 | `SS` | 2023.12.24 | 89.36% | 6th | Silver Medal |
-| VKOSHP XXIV | `IT` | 2023.12.12 | 73.84% | 63rd | III degree |
-| XV Eurasian Olympiad in Informatics | `IT` | 2023.12.12 | | 5th | Gold Medal |
-| [JBOI 2023](https://jboi2023.cs.org.mk/) | `IS` | 2023.11.25 | 78.13% | 14th | [Silver Medal](https://jboi2023.cs.org.mk/content/results) |
-| [AMC10 2023](https://maa.org/math-competitions/amc-1012) | `MS` | 2023.11.14 | 97.50% | | --- |
-| IGO8 2023 | `MS` | 2023.10.20 | | | |
-| [IMO 2023](https://imo2023.jp/en/) | `MS` | 2023.07.06 | 32.74% | 416th | [Honorable Mention](https://www.imo-official.org/participant_r.aspx?id=33101) | 
-| [IMSC 2023](https://imscprogram.com/) | `MS` | 2023.06.06 | | | [Honorable Mention](https://imscprogram.com/competition.html) |
-| [APIO 2023](http://www.apio2023.cn/) | `IS` | 2023.05.20 | 46.57% | | [none](http://www.apio2023.cn/score.html) |
-| [IMAS 2023](https://chiuchang.org/imas/about/) | `MS` | 2023.05.14 | | | [Gold Medal](https://docs.google.com/spreadsheets/d/1T0HSraedQrSbfds6FmRWwNrIeEHcE6E7/edit?usp=sharing&ouid=107173272238617493592&rtpof=true&sd=true) |
-| [BMO 2023](https://bmo2023.tubitak.gov.tr/) | `MS` | 2023.05.08 | 12.21% | 115th | [none](https://bmo2023.tubitak.gov.tr/results) |
-| [APMO 2023](https://apmo-official.org/) | `MS` | 2023.03.14 | | | [none](https://apmo-official.org/country_report/KGZ/2023) |
-| [IZhO 2023](https://izho.kz/) | `MS` | 2023.02.01 | 65.56% | | [Bronze Medal](https://izho.kz/contest/results-izho-2023/) |
-| [AMC8 2023](https://maa.org/math-competitions/amc-8) | `MS` | 2023.01.21 | 100% | 1st | | 
+| Name | Type | Date | Score distr. | Place | Award | Certificates |
+| ---- |:----:| ---- | ------------ | ----- | ----- |:------------:|
+| [BMO 2024](https://bmo2024.org/) | `MS` | 2024.04.28 | 91.79% | 12th | [Silver Medal](https://bmo2024.org/results/) | {{< inline_img src="/static/documents/c_balkan_2024.jpg" >}} {{< inline_img src="/static/documents/m_balkan_2024.jpg" >}} |
+| [InfO(1)Cup](https://info1cup.com/) | `IS` | 2024.02.10 | 82.09% | 25th | [Silver Medal](https://info1cup.com/results) | |
+| [IMAS 2024](https://chiuchang.org/imas/about/) | `MS` | | | | | |
+| [AIME II 2024](https://maa.org/math-competitions/invitational-competitions) | `MS` | 2024.02.07 | | | | |
+| [AMC8 2024](https://maa.org/math-competitions/amc-8) | `MS` | 2024.01.20 | 99.35% | | Dist. Honor Roll | {{< inline_img src="/static/documents/c_amc8_2024.jpg" >}} {{< inline_img src="/static/documents/m_amc8_2024.jpg" >}} |
+| İSTLAB 2023 | `SS` | 2023.12.24 | 89.36% | 6th | Silver Medal | |
+| EMC 2023 | `MS` | 2023.12.09 | | | | |
+| [VKOSHP XXIV](https://neerc.ifmo.ru/school/russia-team/index.html) | `IT` | 2023.12.12 | 73.84% | 63rd | [III degree](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) | |
+| XV Eurasian Olympiad in Informatics | `IT` | 2023.12.12 | | 5th | [Gold Medal](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) | {{< inline_img src="/static/documents/c_eurasian_2023.jpg" >}} {{< inline_img src="/static/documents/m_eurasian_2023.jpg" >}} |
+| [JBOI 2023](https://jboi2023.cs.org.mk/) | `IS` | 2023.11.25 | 78.13% | 14th | [Silver Medal](https://jboi2023.cs.org.mk/content/results) |  |
+| [AMC10B 2023](https://maa.org/math-competitions/amc-1012) | `MS` | 2023.11.14 | 97.50% | | --- | {{< inline_img src="/static/documents/c_amc10_2023.jpg" >}} {{< inline_img src="/static/documents/m_amc10_2023.jpg" >}} |
+| IGO8 2023 | `MS` | 2023.10.20 | | | Silver Medal | |
+| [IMO 2023](https://imo2023.jp/en/) | `MS` | 2023.07.06 | 32.74% | 416th | [Honorable Mention](https://www.imo-official.org/participant_r.aspx?id=33101) | |
+| [IMSC 2023](https://imscprogram.com/) | `MS` | 2023.06.06 | | | [Honorable Mention](https://imscprogram.com/competition.html) | |
+| [APIO 2023](http://www.apio2023.cn/) | `IS` | 2023.05.20 | 46.57% | | [none](http://www.apio2023.cn/score.html) | |
+| [IMAS 2023](https://chiuchang.org/imas/about/) | `MS` | 2023.05.14 | | | [Gold Medal](https://docs.google.com/spreadsheets/d/1T0HSraedQrSbfds6FmRWwNrIeEHcE6E7/edit?usp=sharing&ouid=107173272238617493592&rtpof=true&sd=true) | |
+| [BMO 2023](https://bmo2023.tubitak.gov.tr/) | `MS` | 2023.05.08 | 12.21% | 115th | [none](https://bmo2023.tubitak.gov.tr/results) | |
+| [APMO 2023](https://apmo-official.org/) | `MS` | 2023.03.14 | | | [none](https://apmo-official.org/country_report/KGZ/2023) | |
+| [IZhO 2023](https://izho.kz/) | `MS` | 2023.02.01 | 65.56% | | [Bronze Medal](https://izho.kz/contest/results-izho-2023/) | |
+| [AMC8 2023](https://maa.org/math-competitions/amc-8) | `MS` | 2023.01.21 | 97.50% | | | |
 
 ## Local competitions
 
-| Countries | Name | Type | Date | Score distr. | Place | Award |
-| --------- | ---- | ---- | ---- | ------------ | ----- | ----- |
+| Name | Type | Date | Score distr. | Place | Award | Certificates |
+| ---- | ---- | ---- | ------------ | ----- | ----- | ------------ |
+| IT Cup (Junior) Final 2024 | `IS` | | | | | {{< inline_img src="/static/documents/m_itcup_2024.jpg" >}} |
+| National Olympiad in Informatics | `IS` | | | | | {{< inline_img src="/static/documents/m_national_i_2024.jpg" >}} |
+| National Olympiad in Mathematics | `MS` | | | | | {{< inline_img src="/static/documents/m_national_m_2024.jpg" >}} |
+| Republic Olympiad in Mathematics | `MS` | | | | | {{< inline_img src="/static/documents/m_republic_2024.jpg" >}} |
+| City Olympiad in Informatics | `IS` | | | | | {{< inline_img src="/static/documents/m_city_2024.jpg" >}} |
 | ICPC Regional Contest 2023 | `IT` | 2023.09.30 | 100% | 1st | none? |
 | [Archimedes' Programming Tournament 2023](http://www.arhimedes.org/) | `IT` | 2023.06.01 | 94.08% | 31st | Silver Medal |
 | [IT Cup (Junior) Final 2023](https://olympiads.kg/c/35/compets) | `IS` | 2023.05.13 | 100% | 1st | [none?](https://t.me/itcup/46) |
@@ -43,4 +50,4 @@ This is the list of my main academic achievments.
 | National Mathematical Olympiad Final 2023 | `MS` | 2023.04.03 | | 5th | Silver Medal |
 | National Olympiad in Informatics Final 2023 | `IS` | 2023.04.03 | | 9th | Bronze Medal |
 | Leonard Euler's Olympiad 2023 | `MS` | 2023.03.28 | | | Bronze Medal |
-| `RUS` | [Saint-Petersburg OI February Cup (Major League)](prog.matolimp-spb.org/2023/) | `MS` | 2023.02.23 | 100% | 1st | none? |
+| [Saint-Petersburg OI February Cup (Major League)](https://prog.matolimp-spb.org/2023/) | `MS` | 2023.02.23 | 100% | 1st | none? |
