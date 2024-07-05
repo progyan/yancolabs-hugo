@@ -12,6 +12,7 @@ This is the list of my main academic achievments.
 
 | Name | Type | Date | Score distr. | Place | Award | Certificates |
 | ---- |:----:| ---- | ------------ | ----- | ----- |:------------:|
+| IMSC 2024 | `MS` | 2024.06.14 | | | Silver Medal | {{< inline_img src="/static/documents/c_imsc_2024.jpg" >}} {{< inline_img src="/static/documents/m_imsc_2024.jpg" >}}
 | [APIO 2024](http://www.apio2024.org/) | `IS` | 2024.05.20 | 76.92% | 66th | [Silver Medal](https://apio2024.org/ranking) | |
 | [BMO 2024](https://bmo2024.org/) | `MS` | 2024.04.28 | 91.79% | 12th | [Silver Medal](https://bmo2024.org/results/) | {{< inline_img src="/static/documents/c_balkan_2024.jpg" >}} {{< inline_img src="/static/documents/m_balkan_2024.jpg" >}} |
 | [InfO(1)Cup](https://info1cup.com/) | `IS` | 2024.02.10 | 82.09% | 25th | [Silver Medal](https://info1cup.com/results) | {{< inline_img src="/static/documents/c_infocup_2024.jpg" >}} {{< inline_img src="/static/documents/m_infocup_2024.jpg" >}} |
