@@ -10,12 +10,17 @@ This is the list of my main academic achievments.
 
 ## Significant international competitions
 
-| Name | Type | Date | Score distr. | Place | Award | Certificates |
+| Name | Type | Date | Rel. | Place | Award | Certificates |
 | ---- |:----:| ---- | ------------ | ----- | ----- |:------------:|
-| IMSC 2024 | `MS` | 2024.06.14 | | | Silver Medal | {{< inline_img src="/static/documents/c_imsc_2024.jpg" >}} {{< inline_img src="/static/documents/m_imsc_2024.jpg" >}}
+| [IOI 2024](https://www.ioi2024.eg/) | `IS` | 2024.09.01 | 77.68% | 79th | [Silver Medal](https://stats.ioinformatics.org/results/2024) | |
+| [IMO 2024](https://www.imo2024.uk/) | `MS` | 2024.07.11 | 83.72% | 100th | [Silver Medal](https://www.imo-official.org/participant_r.aspx?id=33101) | |
+| [IMSC 2024](https://imscprogram.com/) | `MS` | 2024.06.14 | 84.28% | 36th | [Silver Medal](https://www.imscprogram.com/site/pages/index/index?pageId=b7b5cdb2-89e9-4ab5-ac19-1c71ba6d6784) | {{< inline_img src="/static/documents/c_imsc_2024.jpg" >}} {{< inline_img src="/static/documents/m_imsc_2024.jpg" >}}
 | [APIO 2024](http://www.apio2024.org/) | `IS` | 2024.05.20 | 76.92% | 66th | [Silver Medal](https://apio2024.org/ranking) | |
 | [BMO 2024](https://bmo2024.org/) | `MS` | 2024.04.28 | 91.79% | 12th | [Silver Medal](https://bmo2024.org/results/) | {{< inline_img src="/static/documents/c_balkan_2024.jpg" >}} {{< inline_img src="/static/documents/m_balkan_2024.jpg" >}} |
+| [APMO 2024](https://www.apmo-official.org) | `MS` | | | | [Silver Medal](https://www.apmo-official.org/year_report/2024) | |
 | [InfO(1)Cup](https://info1cup.com/) | `IS` | 2024.02.10 | 82.09% | 25th | [Silver Medal](https://info1cup.com/results) | {{< inline_img src="/static/documents/c_infocup_2024.jpg" >}} {{< inline_img src="/static/documents/m_infocup_2024.jpg" >}} |
+| İSTLAB 2023 | `SS` | 2023.12.24 | 89.36% | 6th | Silver Medal | |
+| [EMC 2023](https://emc.mnm.hr/competition/results/) | `MS` | 2023.12.09 | 86.30% | 51st | [Second Prize](https://emc.mnm.hr/wp-content/uploads/2024/09/Senior_results_2023-fixed.pdf) | |
 | [JBOI 2023](https://jboi2023.cs.org.mk/) | `IS` | 2023.11.25 | 78.13% | 14th | [Silver Medal](https://jboi2023.cs.org.mk/content/results) | {{< inline_img src="/static/documents/c_jboi_2023.jpg" >}} {{< inline_img src="/static/documents/m_jboi_2023.jpg" >}} |
 | [IMO 2023](https://imo2023.jp/en/) | `MS` | 2023.07.06 | 32.74% | 416th | [Honorable Mention](https://www.imo-official.org/participant_r.aspx?id=33101) | {{< inline_img src="/static/documents/c_imo_2023.jpg" >}} {{< inline_img src="/static/documents/m_imo_2023.jpg" >}} |
 | [IMSC 2023](https://imscprogram.com/) | `MS` | 2023.06.06 | | | [Honorable Mention](https://imscprogram.com/competition.html) | |
@@ -31,8 +36,6 @@ This is the list of my main academic achievments.
 | [IMAS 2024](https://chiuchang.org/imas/about/) | `MS` | | | | High Distinction | |
 | [AIME II 2024](https://maa.org/math-competitions/invitational-competitions) | `MS` | 2024.02.07 | | | | |
 | [AMC8 2024](https://maa.org/math-competitions/amc-8) | `MS` | 2024.01.20 | 99.35% | | Dist. Honor Roll | {{< inline_img src="/static/documents/c_amc8_2024.jpg" >}} {{< inline_img src="/static/documents/m_amc8_2024.jpg" >}} |
-| İSTLAB 2023 | `SS` | 2023.12.24 | 89.36% | 6th | Silver Medal | |
-| EMC 2023 | `MS` | 2023.12.09 | | | | |
 | [VKOSHP XXIV](https://neerc.ifmo.ru/school/russia-team/index.html) | `IT` | 2023.12.12 | 73.84% | 63rd | [III degree](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) | |
 | XV Eurasian Olympiad in Informatics | `IT` | 2023.12.12 | | 5th | [Gold Medal](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) | {{< inline_img src="/static/documents/c_eurasian_2023.jpg" >}} {{< inline_img src="/static/documents/m_eurasian_2023.jpg" >}} |
 | [AMC10B 2023](https://maa.org/math-competitions/amc-1012) | `MS` | 2023.11.14 | 97.50% | | --- | {{< inline_img src="/static/documents/c_amc10_2023.jpg" >}} {{< inline_img src="/static/documents/m_amc10_2023.jpg" >}} |
